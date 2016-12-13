@@ -1,0 +1,14 @@
+{
+  "name": "addon",
+  "version": "1.0.0",
+  "description": "Node.js addon example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.4.0"
+  }
+}
