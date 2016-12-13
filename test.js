@@ -1,3 +1,5 @@
-var addon = require('./build/Release/pow')
+var pow  = require('./build/Release/pow')
+var hello = require('./build/Release/hello')
 
-console.log(addon.pow(4,2))
+console.log(pow.pow(4,2))
+console.log(hello.hello())
